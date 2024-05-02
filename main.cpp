@@ -14,7 +14,7 @@ int main()
 	do
 	{
 		int sum = num1 + num2;
-		cout << "enter num(0) to see answer";
+		cout << "enter num(0)d to see answer";
 		cin >> zero;
 		if (zero == 0)
 		{
