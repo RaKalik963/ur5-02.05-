@@ -4,7 +4,15 @@ using namespace std;
 
 int main()
 {
-
+	int num;
+	int zero = 0;
+	cout << "enter num";
+	cin >> num;
+	while (zero <= num)
+	{
+		cout << num << endl;
+		num++;
+	}
 	system("pause");
 	return 0;
 }
