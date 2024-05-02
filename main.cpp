@@ -10,8 +10,8 @@ int main()
 	cin >> num;
 	while (zero <= num)
 	{
-		cout << num << endl;
-		num++;
+		cout << zero << endl;
+		zero++;
 	}
 	system("pause");
 	return 0;
